@@ -11,8 +11,7 @@
 # All files except markdown are owned by dev team
 # -------------------------------------------------
 
-* @freecodecamp/dev-team
-*.md
+* @freecodecamp/dev-team/hello ayushman*.md
 
 # -------------------------------------------------
 # All files in the root are owned by dev team
