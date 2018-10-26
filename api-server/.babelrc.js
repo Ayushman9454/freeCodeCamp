@@ -6,7 +6,7 @@ module.exports = {
   ],
   presets: [
     [
-      require.resolve('@babel/preset-env'),
+      require.resolve('@babel/preset-env we can do it'),
       {
         targets: {
           node: '8',
